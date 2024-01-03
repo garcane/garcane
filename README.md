@@ -4,7 +4,7 @@
 I'm a first-class graduate with honours in Biochemistry.
 Currently working as an R&D scientist. A self-taught programmer who is an avid and motivated learner, seeking to switch careers for a role in software engineering as a backend engineer or in data science.
 
-Current Tech Stack: Python | Flask | HTML | Bootstrap | HTML | CSS | SQLite 
+Current Tech Stack: Python | Flask | HTML | Bootstrap | CSS | SQLite 
 
     🌱 I’m currently working on developing projects and a portfolio, learning more in-depth about APIs and relational databases
     👀 I’m interested in coding, travel, food, gaming, and gym
