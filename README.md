@@ -5,8 +5,8 @@ I'm a first-class graduate with honours in Biochemistry.
 Currently working as an R&D scientist. A self-taught programmer who is an avid and motivated learner, seeking to switch careers for a role in software engineering as a backend engineer or in data science.
 
 Current Tech Stack: Python | Flask | HTML | Bootstrap | CSS | SQLite | Shell Scripting (Bash) | Visual Basic for Applications (VBA).
-● Technologies/Frameworks: Git, Flask, Bootstrap, Jinja2, Tkinter, TCP/IP, HTTP, Pandas.
-● Developer Tools: Visual Studio Code, Github, DB SQLite, PyCharm, Google Cloud, Linux/Unix.
+Technologies/Frameworks: Git, Flask, Bootstrap, Jinja2, Tkinter, TCP/IP, HTTP, Pandas.
+Developer Tools: Visual Studio Code, Github, DB SQLite, PyCharm, Google Cloud, Linux/Unix.
 
     🌱 I’m currently working on developing projects and a portfolio, learning more in-depth about APIs and relational databases
     👀 I’m interested in coding, travel, food, gaming, and gym
