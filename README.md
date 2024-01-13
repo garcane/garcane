@@ -8,7 +8,7 @@ A dedicated self-taught programmer, holding a first-class honours degree in Bioc
 - 🤔 I’m looking for help with getting an interview for an entry/internship-level software role
 - 📫 How to reach me: https://www.linkedin.com/in/george-appeah/
 
-* Current Tech Stack: Python | Flask | HTML | Bootstrap | CSS | SQLite | Shell Scripting (Bash) | Visual Basic for Applications (VBA).
+* Current Tech Stack: Python | Flask | HTML | Bootstrap | CSS | SQLite | Shell Scripting (Bash).
 * Technologies/Frameworks: Git, Flask, Bootstrap, Jinja2, Tkinter, TCP/IP, HTTP, Pandas.
 * Developer Tools: Visual Studio Code, Github, DB SQLite, PyCharm, Google Cloud, Linux/Unix.
 
