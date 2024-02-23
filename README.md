@@ -5,7 +5,6 @@ A dedicated self-taught programmer, holding a first-class honours degree in Bioc
 - 🤔 I’m looking for help with getting an interview for an entry/internship-level software role
 - 📫 How to reach me **https://www.linkedin.com/in/george-appeah/**
 
-Connect with me
 <p align="left">
 </p>
 
