@@ -1,7 +1,6 @@
 # Hi 👋, I'm George</h1>
 A dedicated self-taught programmer, holding a first-class honours degree in Biochemistry. Working as a diligent R&D scientist specialized in developing and validating pharmaceutical products. Now aspiring to transition into a career in software engineering or data science.
 
-- 🔭 I’m currently working on [YouTube To Audio Converter](https://github.com/gappeah/YouTube-To-Audio)
 - 🌱 I’m currently learning **more in-depth about APIs and relational databases (PostgreSQL)**
 - 🤔 I’m looking for help with getting an interview for an entry/internship-level software role
 - 📫 How to reach me **https://www.linkedin.com/in/george-appeah/**
