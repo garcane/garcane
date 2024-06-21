@@ -1,5 +1,5 @@
 # Hi 👋, I'm George</h1>
-A dedicated self-taught programmer, holding a first-class honours degree in Biochemistry. Now aspiring to transition into a career in software engineering or data science.
+A dedicated self-taught programmer, holding a first-class honours degree in Biochemistry. Now aspiring to transition into a career in data science/analyst.
 
 # 💫 About Me:
 <br>    🌱 I’m currently learning more in-depth about relational databases (PostgreSQL) and Java<br>    🤔 I’m looking for help entry/internship-level roles in software engineering or data science <br>    📫 How to reach me https://www.linkedin.com/in/george-appeah/<br>
