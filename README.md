@@ -2,7 +2,7 @@
 A self-taught programmer with a first-class in Biochemistry who is passionate about data and technology to solve real-world problems. Skilled in Python, worked previously in the biotechnology sector, now transitioning into a junior data analyst
 
 # 💫 About Me:
-<br>🔭 I’m currently working on becoming a junior data analyst<br>🤝🏿 I’m looking for help with applying for junior data analyst or data engineer<br>🌱 I’m currently learning Azure Data Fundamentals<br>
+<br>🔭 I’m currently working on becoming a junior data analyst<br>🤝🏿 My career aspiration is to work in data analysis, data science, or data engineering, ideally, within a fintech/financial, healthcare sales, or any industry where I can leverage my strong analytical abilities<br>🌱 I’m currently learning Azure Data Fundamentals<br>
 
 
 # 💻 Tech Stack:
