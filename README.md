@@ -2,7 +2,7 @@
 A curious and impact-driven BSc Biochemistry Graduate passionate about technology and obsessed with uncovering hidden trends in massive datasets. Adept at tackling complex problems using data analysis tools to turn raw data into powerful insights. Ready to bring a passion for data to a forward-thinking, innovative company.
 
 # 💫 About Me:
-<br>🔭 I’m currently working on becoming a junior data analyst<br>🤝🏿 My career aspiration is to work in data analysis, data science, or data engineering, ideally, within a fintech/financial, healthcare sales, or any industry where I can leverage my strong analytical abilities<br>🌱 I’m currently learning Azure Data Fundamentals<br>
+<br>🔭 I’m currently working on becoming a junior data analyst<br>🤝🏿 My career aspiration is to work in data analysis, data science, or data engineering, ideally, within a fintech/financial, healthcare sales, or any industry where I can leverage my strong analytical abilities<br>🌱 I’m currently learning Azure Data Fundamentals, Machine Learning with Python at Freecodecamp <br>
 
 
 # 💻 Tech Stack:
